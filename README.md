@@ -9,13 +9,13 @@
 
 **Add your API spec as `api.apib` in the root of your repo and push!**
 
-It will make great API docs for each branch that has an API blueprint ([`.apib`](http://apiblueprint.org/)). Your documents will be available at `http://org.github.io/repo/branch`. See the [branches](https://github.com/renewablefunding/blueprint-docify/branches) on this repo and thier related docs:
+It will make great API docs for each branch that has an API blueprint ([`.apib`](http://apiblueprint.org/)). Your documents will be available at `http://org.github.io/repo/branch`. See the [branches](https://github.com/tipfortip/blueprint-docify/branches) on this repo and thier related docs:
 
 ***These are for visual purposes only, do not read as spec***
 
-- http://renewablefunding.github.io/blueprint-docify/gist-fox-api/
-- http://renewablefunding.github.io/blueprint-docify/real-world-api/
-- http://renewablefunding.github.io/blueprint-docify/simplest-api/
+- http://tipfortip.github.io/blueprint-docify/gist-fox-api/
+- http://tipfortip.github.io/blueprint-docify/real-world-api/
+- http://tipfortip.github.io/blueprint-docify/simplest-api/
 
 
 ### Getting started
